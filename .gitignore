@@ -1,0 +1,11 @@
+# Project exclude paths
+/Concurrency/venv/
+/Dockers/venv/
+/Final Project/venv/
+/GeeksforGeeks/venv/
+/Leetcode/venv/
+/PracticeProject/venv/
+/RESTAPI/venv/
+/RobotFramework/venv/
+/Selenium Pytest/venv/
+/SindhuBranch/venv/
